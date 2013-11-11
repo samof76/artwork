@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="twemproxy.svg"
-   inkscape:export-filename="/home/sam/Documents/Personal/Blogs/Redis_Cluster/twemproxy_replication_change_datahow.png"
+   inkscape:export-filename="/home/sam/Documents/Personal/Blogs/Redis_Cluster/twemproxy_replication_failure2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -45,17 +45,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93338095"
-     inkscape:cx="384.45349"
+     inkscape:cx="131.60925"
      inkscape:cy="174.04924"
      inkscape:document-units="px"
-     inkscape:current-layer="g4397"
+     inkscape:current-layer="g3232"
      showgrid="false"
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="1366"
-     inkscape:window-height="722"
+     inkscape:window-width="1280"
+     inkscape:window-height="754"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -103,7 +103,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="ReplicaSlaves"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g4078"
@@ -174,7 +174,7 @@
        transform="translate(136.06449,110.35151)">
       <path
          transform="matrix(0.73159004,0,0,1,8.0518871,0)"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          sodipodi:ry="17.67767"
          sodipodi:rx="62.139687"
          sodipodi:cy="116.49869"
@@ -201,7 +201,7 @@
        transform="translate(260.95217,322.37611)">
       <path
          transform="matrix(0.73159004,0,0,1,8.0518871,0)"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          sodipodi:ry="17.67767"
          sodipodi:rx="62.139687"
          sodipodi:cy="116.49869"
@@ -228,7 +228,7 @@
        transform="translate(480.58382,150.52804)">
       <path
          transform="matrix(0.73159004,0,0,1,8.0518871,0)"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          sodipodi:ry="17.67767"
          sodipodi:rx="62.139687"
          sodipodi:cy="116.49869"
@@ -255,7 +255,7 @@
        transform="translate(-21.890547,294.09214)">
       <path
          transform="matrix(0.73159004,0,0,1,8.0518871,0)"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          sodipodi:ry="17.67767"
          sodipodi:rx="62.139687"
          sodipodi:cy="116.49869"
@@ -278,7 +278,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="ReplicaSlavesOnFailure"
      id="g4253"
      inkscape:groupmode="layer"
@@ -338,7 +338,7 @@
          sodipodi:cy="116.49869"
          sodipodi:rx="62.139687"
          sodipodi:ry="17.67767"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          transform="matrix(0.73159004,0,0,1,8.0518871,0)" />
       <text
          xml:space="preserve"
@@ -365,7 +365,7 @@
          sodipodi:cy="116.49869"
          sodipodi:rx="62.139687"
          sodipodi:ry="17.67767"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          transform="matrix(0.73159004,0,0,1,8.0518871,0)" />
       <text
          xml:space="preserve"
@@ -392,7 +392,7 @@
          sodipodi:cy="116.49869"
          sodipodi:rx="62.139687"
          sodipodi:ry="17.67767"
-         d="m 154.27784,116.49869 a 62.139687,17.67767 0 1 1 -124.279374,0 62.139687,17.67767 0 1 1 124.279374,0 z"
+         d="m 154.27784,116.49869 c 0,9.76311 -27.82089,17.67767 -62.139687,17.67767 -34.318801,0 -62.139687,-7.91456 -62.139687,-17.67767 0,-9.76311 27.820886,-17.677672 62.139687,-17.677672 34.318797,0 62.139687,7.914562 62.139687,17.677672 z"
          transform="matrix(0.73159004,0,0,1,8.0518871,0)" />
       <text
          xml:space="preserve"
@@ -723,7 +723,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="NodeNames"
-     style="display:inline"
+     style="display:none"
      transform="translate(-56.70334,-230.63289)"
      sodipodi:insensitive="true">
     <g
@@ -845,7 +845,7 @@
   </g>
   <g
      transform="translate(-56.70334,-230.63289)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="Redis124Nodes"
      id="g4163"
      inkscape:groupmode="layer"
@@ -942,7 +942,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Gossip"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        style="display:inline"
@@ -1041,7 +1041,7 @@
    id="tspan6824-5">4</tspan>!</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Gossip124Nodes"
      id="g4213"
      inkscape:groupmode="layer">
@@ -1118,7 +1118,7 @@
   </g>
   <g
      transform="translate(-56.70334,-230.63289)"
-     style="opacity:0.5;display:none"
+     style="opacity:0.5;display:inline"
      inkscape:label="Redis3 Node"
      id="g3131"
      inkscape:groupmode="layer"
@@ -1154,7 +1154,7 @@
     </g>
   </g>
   <g
-     style="opacity:0.5;display:none"
+     style="opacity:0.5;display:inline"
      inkscape:label="Redis3 Gossip"
      id="g3091"
      inkscape:groupmode="layer"
@@ -1189,8 +1189,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Notify"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="display:inline"
        id="g7591">
@@ -1330,7 +1329,8 @@
   <g
      inkscape:label="DataUtopia"
      id="g4397"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="display:none">
     <text
        sodipodi:linespacing="104%"
        id="text4399"
@@ -1410,5 +1410,73 @@
          y="378.6571"
          x="79.623917"
          sodipodi:role="line">3(S) &amp; 4(M)</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="g3232"
+     inkscape:label="DataUtopiaFailure">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:103.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="52.067451"
+       y="213.88628"
+       id="text3234"
+       sodipodi:linespacing="104%"><tspan
+         sodipodi:role="line"
+         id="tspan3236"
+         x="52.067451"
+         y="213.88628"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold">Data of</tspan><tspan
+         sodipodi:role="line"
+         x="52.067451"
+         y="230.52628"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+         id="tspan3238">1(S) &amp; 4(M)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:103.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="428.89182"
+       y="186.3118"
+       id="text3240"
+       sodipodi:linespacing="104%"><tspan
+         sodipodi:role="line"
+         id="tspan3242"
+         x="428.89182"
+         y="186.3118"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold">Data of</tspan><tspan
+         sodipodi:role="line"
+         x="428.89182"
+         y="202.9518"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+         id="tspan3244">2(S) &amp; 1(M)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:103.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="556.38531"
+       y="402.72934"
+       id="text3246"
+       sodipodi:linespacing="104%"><tspan
+         sodipodi:role="line"
+         id="tspan3248"
+         x="556.38531"
+         y="402.72934"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold">Data of</tspan><tspan
+         sodipodi:role="line"
+         x="556.38531"
+         y="419.36932"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:103.99999619%;text-anchor:middle;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+         id="tspan3250"> 4(S) &amp; 2(M)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="85.709915"
+       y="437.37518"
+       id="text3252"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3254"
+         x="85.709915"
+         y="437.37518" /></text>
   </g>
 </svg>
